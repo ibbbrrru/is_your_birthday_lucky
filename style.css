@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho&family=Bangers&family=Exo&family=Fugaz+One&family=Mansalva&family=Montserrat+Alternates&family=Montserrat:wght@400;700&family=Rampart+One&family=Sriracha&display=swap');
 
 body {
-    background: url("image.jpg") scroll;
+    background: url("image.jpg");
 
     background-size: cover;
     background-repeat: no-repeat;
