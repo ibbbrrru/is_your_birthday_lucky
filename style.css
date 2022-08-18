@@ -1,0 +1,36 @@
+body {
+    background: url("image.jpg") scroll;
+    
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     height:100%;
+     background-attachment: fixed;
+     /* position: relative; */
+    /* text-align: center;
+    background-position: center; */
+}
+h1{
+    text-align: center;
+}
+.container{
+    width:50%;
+}
+input,label{
+    display: block;
+}
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+#check-number{
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+    background: transparent;
+    color: red;
+    border-color: red;
+    border-width:medium;
+    padding:0.5rem;
+    border-radius: 0.5rem;
+}
