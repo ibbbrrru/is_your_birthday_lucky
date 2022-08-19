@@ -73,6 +73,7 @@ input {
     animation-duration: 1s;
     text-align: center;
     text-shadow: 0 0 5px white, 0 0 1px white;
+    color: #be123c;
 }
 
 @keyframes slidein {
@@ -88,5 +89,5 @@ input {
 }
 
 #output-message:hover {
-    color: #be123c;
+    color: #d946ef;
 }
